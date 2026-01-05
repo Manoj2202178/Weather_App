@@ -63,7 +63,8 @@ export default function InfoBox({info}){
                         </Typography>
                     </CardContent>
                 </Card>
-                <p>This info is provided by <a target='_blank' href="https://openweathermap.org/current">OpenWeather</a> API may be inaccurate</p>
+                <p className='cardContainer'>This info is provided by <a target='_blank' href="https://openweathermap.org/current"> OpenWeather </a> API</p>
+                <p>The info may be inaccurate</p>
                 </div>
             </div>
         </div>
