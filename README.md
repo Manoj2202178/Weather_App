@@ -33,7 +33,7 @@ A simple and responsive **Weather Application** built using **React** and **Mate
 
 ---
 
-## Live Wesite
+## Live Website
 - https://weather-app-l15d.onrender.com
 
 
